@@ -1,0 +1,88 @@
+img{
+    height: 40vh;
+    width: 50vh;
+    background-size: cover;
+   
+
+}
+
+.container{
+    height: 100%;
+    background-color: rgb(121, 234, 180);
+    width: 110%;
+}
+/* .big{
+    height: 200px;
+    width: 200px;
+} */
+
+.heading{
+    color: rgb(178, 11, 11);
+    text-align: center;
+    
+}
+.span{
+    color: rgb(6, 6, 156);
+    font-family: "roboto";
+    font-size: 50px;
+}
+
+.ancar{
+    /* background-color: rgb(30, 221, 30); */
+    text-decoration: none;
+    font-family:"roboto";
+    border-radius: 3px;
+    border: 2px solid red;
+    margin: 2px;
+    font-size: 25px;
+}
+
+.new{
+    text-align: center;
+    display: none;
+    background-color: rgb(210, 239, 91);
+    height: 100%;
+    width: 110%;
+}
+.head{
+    color: rgb(160, 8, 168);
+    font-weight: bold;
+    font-family: "roboto";
+    font-size:40px ;
+}
+.spans{
+    font-family: "roboto";
+    font-size: 30px;
+    color: rgb(234, 41, 41);
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.para{
+    font-size: 20px;
+    color: rgb(4, 4, 190);
+}
+.buttons{
+    margin-top: 25px;
+    margin: 15px;
+    justify-content: space-between;
+}
+
+#pelli{
+    background-color: blueviolet;
+    height: 100%;
+    width: 110%;
+    margin: 14px;
+}
+
+.photoHeight{
+    height: 50vh;
+    width: 40vh;
+}
+.pelliHead{
+    color: bisque;
+    font-family: 'roboto';
+    font-style: italic;
+}
